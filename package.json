@@ -6,7 +6,7 @@
   "dependencies": {
     "discord-rpc": "git+https://github.com/djs/discord-rpc.git",
     "discord.js": "^12.5.1",
-    "node.js": "0.0.1-security"
+    "node.js": "6.14.12"
   },
   "devDependencies": {},
   "scripts": {
